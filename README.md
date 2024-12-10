@@ -50,8 +50,8 @@ The tool calculates and displays the sample size needed for detecting a given Mi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ab_test_sample_size_calculator.git
-   cd ab_test_sample_size_calculator
+   git clone https://github.com/yourusername/sample_size_calc.git
+   cd sample_size_calc
    ```
 
 2. **Set up a virtual environment (optional but recommended)**:
