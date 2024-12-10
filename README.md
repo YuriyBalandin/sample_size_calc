@@ -2,9 +2,9 @@
 
 This repository contains a Streamlit-based web application to quickly calculate the required sample size for A/B tests across various metric types. The app supports:
 
-- **Continuous Metric** (e.g., revenue, session length)
-- **Binary Conversion Metric** (e.g., click-through rate, conversion rate)
-- **Ratio Metric** (e.g., ARPU = Revenue / Users, or any ratio of two metrics)
+- **Continuous Metric** 
+- **Binary Conversion Metric** 
+- **Ratio Metric** 
 
 The tool calculates and displays the sample size needed for detecting a given Minimum Detectable Effect (MDE), considering statistical significance and power. It also accounts for multiple groups by applying a Bonferroni correction to the significance level.
 
